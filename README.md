@@ -1,4 +1,4 @@
-# Underwater Unmanned Vehicle
+<h1 align = "center">Underwater Unmanned Vehicle</h1>
 
 <p align = "center">
 
